@@ -1,0 +1,7 @@
+name: ExamplePlugin
+version: 1.0.0
+main: com.example.plugin.ExamplePlugin
+description: An example plugin
+author: ME !!!
+website: https://example.com/
+api-version: '1.20'
